@@ -17,13 +17,13 @@
 
 ## 💼 Featured Projects
 
-### 📊 NiftyMind — AI Stock Intelligence Platform
+### 1. NiftyMind — AI Stock Intelligence Platform
 
 * Real-time market insights using ML models
 * Stock trend analysis and prediction
 * Built with Streamlit + Python ecosystem
 
-### 🎯 Face Recognition Attendance System
+### 2. Face Recognition Attendance System
 
 * Automated attendance using OpenCV + face recognition
 * Real-time detection and logging

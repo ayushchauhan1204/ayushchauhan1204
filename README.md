@@ -1,8 +1,8 @@
 # Hi, I'm Ayush Chauhan 👋
 
-🚀 Pre-Final Year Computer Science student at VIT Vellore
-💡 Interested in AI/ML, Full-Stack Development, and Data Systems
-🎯 Building real-world, scalable applications with practical impact
+* Pre-Final Year Computer Science student at VIT Vellore
+* Interested in AI/ML, Full-Stack Development, and Data Systems
+* Building real-world, scalable applications with practical impact
 
 ---
 

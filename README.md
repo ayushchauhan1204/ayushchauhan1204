@@ -58,10 +58,10 @@ End-to-end computer vision pipeline for automated attendance tracking — from d
 
 ## Experience
 
-**AI Intern — Virtusa** *(2025 – Present)*
+**AI Intern — Virtusa** *(2026 – Present)*
 Enterprise AI and cloud-based systems, scalable application development, agile workflows
 
-**Software Development Intern — Rostan Technologies** *(Jun – Jul 2024)*
+**Software Development Intern — Rostan Technologies** *(Jun – Jul 2025)*
 Built 5+ Oracle APEX modules, optimized PL/SQL pipelines reducing query latency by 15%, implemented validation systems reducing erroneous entries by 40%
 
 ---

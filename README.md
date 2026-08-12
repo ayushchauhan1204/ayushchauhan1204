@@ -11,7 +11,7 @@ I build end-to-end systems — from ML pipelines and data engineering to product
 ## Currently
 
 - 🏢 **AI Intern @ Virtusa** — working on enterprise AI workflows, cloud-based systems, and scalable application development
-- 🎓 B.Tech Computer Science Engineering, VIT Vellore — CGPA: 8.64
+- 🎓 B.Tech Computer Science Engineering, VIT Vellore — CGPA: 8.65
 
 ---
 
